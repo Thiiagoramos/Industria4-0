@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://thiiagoramos.github.io/Industria4-0/sitemap%20(1).xml
