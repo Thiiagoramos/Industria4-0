@@ -1,0 +1,16 @@
+.desafio {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 800px;
+}
+
+.desafio h3 {
+    color: #000000; /* Vermelho para destacar os desafios */
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}

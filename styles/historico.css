@@ -1,0 +1,26 @@
+.revolucao {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 800px;
+}
+
+.revolucao h3 {
+    color: #000000; /* Azul para destacar as revoluções */
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+.revolucao ul {
+    list-style: disc;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+.revolucao li {
+    margin-bottom: 5px;
+}
