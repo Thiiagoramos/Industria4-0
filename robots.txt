@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap:
-https://thiiagoramos.github.io/Industria4-0/sitemap1.xml
+https://thiiagoramos.github.io/Industria4-0/sitemap.xml
