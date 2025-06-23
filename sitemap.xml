@@ -1,67 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>1.00</priority>
+  </url>
 
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/index.html</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/links.html</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/fotos.html</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/elementos.html</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/comparativo.html</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/contato.htm</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/futuro.htm</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/usecases.htm</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/desafios.htm</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thiiagoramos.github.io/Industria4-0/historico.html</loc>
-  <lastmod>2025-06-23T00:22:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/index.html</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
 
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/links.html</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/fotos.html</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/elementos.html</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/comparativo.html</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/contato.htm</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/futuro.htm</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/usecases.htm</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/desafios.htm</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://thiiagoramos.github.io/Industria4-0/historico.html</loc>
+    <lastmod>2025-06-22</lastmod>
+    <priority>0.80</priority>
+  </url>
 
 </urlset>
