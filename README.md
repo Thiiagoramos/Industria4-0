@@ -33,8 +33,7 @@ Site informativo desenvolvido como atividade acadêmica, explorando os principai
 
 ```
 Industria4-0/
-├── index.html
-├── *.html / *.htm   # Páginas do site
+├── index.html       # Páginas do site
 ├── styles/          # Arquivos CSS
 ├── images/          # Imagens utilizadas
 ├── sitemap.xml      # Mapa do site
@@ -50,7 +49,7 @@ Industria4-0/
 git clone https://github.com/Thiiagoramos/Industria4-0.git
 ```
 
-2. Abra o arquivo `index.html` no navegador — sem dependências ou instalação.
+2. Abra o arquivo `index.html` no navegador - sem dependências ou instalação.
 
 ---
 
@@ -63,4 +62,4 @@ O projeto também foi desenvolvido com a finalidade de colocar em prática os co
 
 ##  Autor
 
-**Thiago Ramos** — [LinkedIn](https://www.linkedin.com/in/thiago-ramos-a86107279)
+**Thiago Ramos** - [LinkedIn](https://www.linkedin.com/in/thiago-ramos-a86107279)
